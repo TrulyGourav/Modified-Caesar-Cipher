@@ -1,3 +1,4 @@
+/* Input must include only small albhabets. */
 import java.lang.*;
 public class ModifiedCipher{
     static void cipher(String message, int offset) {
